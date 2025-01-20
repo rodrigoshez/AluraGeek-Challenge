@@ -1,0 +1,14 @@
+{
+  "name": "alurageek-one-alura_challenge-master",
+  "version": "1.0.0",
+  "description": "Proyecto Alura Geek",
+  "main": "./assets/js/main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Challenge"
+  ],
+  "author": "Rodrigo Sanchez",
+  "license": "ISC"
+}
